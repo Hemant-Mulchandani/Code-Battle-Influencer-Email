@@ -1,4 +1,4 @@
-# [Code-Battle-Influencer-Email](https://hemant-mulchandani.github.io/Code-Battle-Influencer-Email/)
+# [Code Battle Influencer Email](https://hemant-mulchandani.github.io/Code-Battle-Influencer-Email/)
 
   Visit to Live Interact :
 
