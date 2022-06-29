@@ -9,4 +9,4 @@
 
 # 📌 Visit to Live Interact : 🔗
 
-https://hemant-mulchandani.github.io/Code-Battle-Influencer-Email/ 
+https://Hemant-mulchandani.github.io/Code-Battle-Influencer-Email/ 
