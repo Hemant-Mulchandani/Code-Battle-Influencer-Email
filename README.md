@@ -1,6 +1,6 @@
 # [⚔️ Code Battle Influencer Email 📬](https://hemant-mulchandani.github.io/Code-Battle-Influencer-Email/)
 
-  📌 Visit to Live Interact : 🔗
+### 📌 Visit to Live Interact : 🔗
 
   https://Hemant-Mulchandani.github.io/Code-Battle-Influencer-Email/ 
 
@@ -10,6 +10,6 @@
   ![Email Screenshot](Code%20Battle%20Influencer%20Mail%20Capture-1.png)
   -->
   
-# 📌 Visit to Live Interact : 🔗
+## 📌 Visit to Live Interact : 🔗
 
   https://Hemant-Mulchandani.github.io/Code-Battle-Influencer-Email/ 
